@@ -1,0 +1,70 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    width:90%;
+    height:auto;
+    background: black;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 10vh;
+    font-family: 'Rubik', sans-serif;
+    
+}
+#GKD{
+    font-size: 5em;
+    color: yellow;
+}
+#DNF{
+    font-size: 4em;
+    color: rgb(231, 231, 225);
+}
+#OCTAPE{
+    font-size: 8em;
+    color: rgb(246, 246, 242);
+}
+#GMC{
+    display: flex;
+
+}
+#gmcofsantafe{
+    font-size: 2em;
+    color: rgb(246, 246, 242);
+}
+#boxes{
+    margin-top:1vh;
+    width:15vw;
+    height:3vh;
+}
+#plusget{
+    font-size: 4em;
+    color: aliceblue;
+}
+#off{
+    color:red;
+    font-size: 8em;
+}
+#AnyNew{
+    color: aliceblue;
+    font-size:4em;
+}
+#cars{
+    display:flex;
+    width:100%;
+    height:auto;
+    justify-content: space-between;
+}
+#carik{
+    width:22vw;
+    height:auto;
+}
+.car{
+width:22vw;
+height:20vw;    
+}
+#bottomdiv{
+    width:21.9vw;
+    height:10vh;
+    color:rgb(2, 2, 2);
+    background: white;
+}
+ 
